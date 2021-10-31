@@ -1,10 +1,6 @@
 ---
 layout: post
 title: You're up and running!
+published: true
 ---
-
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+I created this blog using Jeckyl because I want to contribute to the 10x your btc security guide and it uses the framework. So far, this is pretty cool though.  It's easier than wordpress in a lot of ways and it's completely free.  Happy Haloween![bitcoin jack-o-lantern]({{site.baseurl}}/https://i.pinimg.com/originals/9a/7d/ba/9a7dbad5d339d774b0df2d0bdcb0fc93.jpg)
