@@ -5,12 +5,11 @@ permalink: /about/
 published: true
 ---
 
-Some information about you!
+Some information about me!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
+Here is my other website:  [marcleon.com](https://marcleon.com/)
 ### Contact me
 
 [gotmarc@protonmail.com](mailto:gotmarc@protonmail.com)
