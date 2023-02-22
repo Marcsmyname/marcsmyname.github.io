@@ -1,0 +1,108 @@
+---
+published: false
+---
+# Welcome To My "Blog"
+
+Hello,. My name is Marc. This is my blog, except it is not a blog.  This is technically a note. It is transmitted on this new protocol named Nostr,
+
+## What is Nostr?
+Nostr stand for **notes and other stuff transmitted over relay**.  I won't go into a deep dive of what that means in this post, but if you are interested in some of the more technical aspects, take a look at [this github page.](https://github.com/nostr-protocol/nostr).
+
+![What Is Nostr](https://nostr.build/i/nostr.build_373f8aa1b7943dae16d95e7fa8ad4fba005c692a5fc36e9317e84e9c834aab15.png)
+
+**What Does That Mean?**
+
+Well a client can be a website or an app...or both. You are probably familiar with both of these, but there are also some cleints that use the command line. Most people do not use these.
+
+
+**What Does "Write A Post, Sign It With Your Key and Send It To Multiple Relays" Mean?
+
+
+Nostr uses something called public key cryptography.   Most people think crypto means cryptocurrency, but it is actually a **branch of mathematics**.  Cryptographic signatures were part of the solution to a peer to peer electronic cash system, but this is not a cryptocurrency/* 
+
+There is **no "block chain."** This is **not an investment** .  Nostr is **not a cryptocurrency**.  It is a **new protocol**. 
+
+It is similar to bitcoin because it also uses digital signatures, but instead of signing transactions, people on Nostr sign notes and other stuff.
+
+![digital signatures](https://nostr.build/i/nostr.build_868331b53d6a5475b82c28d78e469fdd0861a33e4f21759500eb5f9cb44c8ad8.png)
+
+In case you are wondering, a digital signature is like a Personal Identification number. A.K.A. PIN.
+
+Anyone with your PIN(can sign a message in the same way anyone with the PIN and debit card to your bank can withdraw cash from your account at the ATM. In other words, you want to keep that PIN(known as a secret key or nsec).
+
+When you sign a message, you are telling the world that the owner of that private key signed a message, changed your profile picture, or sent a private message. 
+
+**How Do People Read Your Notes?**
+
+Anyone following your public key can read your notes. I have a fancy public key. It's a vanity key and looks like this:
+
+npub1marc8hvl38xl75hl7jtpk2hwhm6lgg0y8ga6860errcdyns0yzysxl9yuf
+
+Anyone following this key can read all the stuff I sign with my private key, except private messages. Only the owner of the private key that I send a NIP 04 message to can read that message. It's like one of those James Bond Movies. For your eyes only.  It is **important to realize that anyone can see who you are sending messages to** even though no one else can read the message. 
+
+
+
+**What Does Send it To Multiple Relays Mean**
+
+A relay is a server that sends your notes to other servers.  Think of your client as an app you might use like Twitter or Instagram.  
+
+A relay would be like the servers owned by Meta(Parent Company of Facebook and Instagram) or Twitter. The difference being that Instagram and Twitter. The difference is that only Twitter is able to t
+send your tweets.
+
+Only Meta can transmit your Instagram photos.
+
+This creates walled gardens on the Internet. 
+
+Want to sign up for Twitter? 
+
+Give them your email and create a password. They want your phone number to,  for reasons. 
+
+Want Facebook? Give them an email, phone number, and a password.
+
+You'll need to give this information to every app, website, online newspaper, shopping website, music player, video streaming service, video streaming...You get the idea.
+
+### What Makes Nostr Different? 
+
+**There are no walled gardens**
+
+- You just need a public/private key pair called an npub, but there are [easier ways to find people now](https://github.com/nostr-protocol/nips/blob/master/05.md)
+
+* I verified my account by using [this guide](https://nvk.org/n00b-nip5) It is free, unlike some other verification services offered by some social media app.
+*  My key works on
+     [Iris.io](https://play.google.com/store/apps/details?id=com.irisapp.io&gl=US) on Google Play
+		 
+		 [Nostrgram](https://nostrgram.co/#global:allMedia)
+		 
+		 Snort.social
+		 
+		 [Ametyst](https://play.google.com/store/apps/details?id=com.vitorpamplona.amethyst) on Google Play
+		 
+		 [Damus](https://damus.io/) on the App store.
+		 
+		 
+		 https://nakamotoinstitute.org/bitcoin/
+
+
+		 
+		 [Chess](https://jesterui.github.io/)
+		 
+		
+		 You don't need a phone number, email, or password.
+		 
+		 You just need a private public key pair.
+		 
+		
+
+
+
+
+
+https://snort.social/p/npub1marc8hvl38xl75hl7jtpk2hwhm6lgg0y8ga6860errcdyns0yzysxl9yuf 
+
+
+
+
+
+
+
+
