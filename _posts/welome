@@ -3,7 +3,7 @@ published: false
 ---
 # Welcome To My "Blog"
 
-Hello,. My name is Marc. This is my blog, except it is not a blog.  This is technically a note. It is transmitted on this new protocol named Nostr,
+Hello,. My name is Marc. This is my blog, except it is not a blog.  This is technically a note. It is transmitted on this new protocol named Nostr.
 
 ## What is Nostr?
 Nostr stand for **notes and other stuff transmitted over relay**.  I won't go into a deep dive of what that means in this post, but if you are interested in some of the more technical aspects, take a look at [this github page.](https://github.com/nostr-protocol/nostr).
